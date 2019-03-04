@@ -3,7 +3,7 @@
 
 Follow these steps:
 
-1. Click on this link: https://github.com/vibhav179?tab=repositories
+1. Click on this link: https://github.com/vibhav179/Closers.com-Project
 2. Click on the Closers.com Project.rar link
 3. Click the Download button on the right to download the Closers.com Project.rar file
 4. Unzip the .RAR file
